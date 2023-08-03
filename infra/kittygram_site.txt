@@ -1,5 +1,5 @@
 IP: 130.193.54.234;
-name_taski: http://mymymytaski.myftp.org;
-name_kittygram: http://instakitty.ddns.net;
+name_taski: https://mymymytaski.myftp.org;
+name_kittygram: https://instakitty.ddns.net;
 login: admin;
 password: 1234567890Mm;
